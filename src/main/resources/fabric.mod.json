@@ -21,6 +21,7 @@
     "main": [
     ]
   },
+  "accessWidener": "viewbobbingmod.accesswidener",
   "mixins": [
     "viewbobbingmod.mixins.json"
   ],
